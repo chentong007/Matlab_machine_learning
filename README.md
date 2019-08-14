@@ -1,10 +1,8 @@
 # Matlab_machine_learning
 
-Using PCA method to extract data features
+Using PCA method to extract data features and classified input data
 
-Classified input data
-
-X1600 are input dataset from MNIST
+X1600 are input dataset from MNIST [(Check Info)](http://yann.lecun.com/exdb/mnist/)
 
 Te28 is test dataset for output labels
 
